@@ -1,6 +1,6 @@
 # myminima
 
-Jekyllのデフォルトテーマ [Minima](https://github.com/jekyll/minima) をベースに自分用にmyminimaをカスタマイズした。
+Jekyllのデフォルトテーマ [Minima](https://github.com/jekyll/minima) をベースに自分用にmyminimaを作成した。
 
 ## インストール
 
