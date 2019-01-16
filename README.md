@@ -4,4 +4,4 @@ Jekyllのデフォルトテーマ [Minima](https://github.com/jekyll/minima) を
 
 ## インストール
 
-  $ git clone https://github.com/saitmako/myminima.git
+    $ git clone https://github.com/saitmako/myminima.git
