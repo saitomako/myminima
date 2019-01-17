@@ -1,4 +1,4 @@
 ---
-title: top page
+#title: top page
 layout: home
 ---
