@@ -11,3 +11,6 @@ show_exerpts: false # set to true to show excerpts on the homepage
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+exclude:
+  - README.md
