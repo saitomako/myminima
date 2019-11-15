@@ -1,0 +1,11 @@
+I"�<p>私は<a href="https://jekyllrb.com/">Jekyll</a>のファンです。
+<a href="https://pages.github.com/">GitHub Pages</a>と組み合わせると、大量のトラフィックを処理できる無料のブログを得られます。
+すごい。最高。<br />
+There’s just this one thing.
+ただ一つ。
+Jekyll handles <a href="http://sass-lang.com/">Sass</a> out of the box and supports <a href="http://coffeescript.org/">CoffeeScript</a> with a gem but I demand more.
+I want Sass, file concatentation, minification, automatic prefixing of CSS, live reloading, and dancing unicorns!
+Ok, that last one might not be available.
+For the rest… enter <a href="http://gulpjs.com/">Gulp</a>.</p>
+
+:ET
